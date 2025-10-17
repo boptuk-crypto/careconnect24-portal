@@ -1,0 +1,185 @@
+{
+  "brand": {
+    "name": "CareConnect24",
+    "tagline": "24-urna nega s srcem"
+  },
+  "nav": {
+    "home": "Domov",
+    "login": "Prijava",
+    "dashboard": "Nadzorna plošča",
+    "patients": "Pacienti",
+    "caregivers": "Negovalci",
+    "customers": "Stranke",
+    "audit": "Revizijski dnevnik",
+    "logout": "Odjava",
+    "myPatients": "Moji pacienti",
+    "myFamily": "Moja družina"
+  },
+  "hero": {
+    "title": "24-urna nega s srcem",
+    "subtitle": "Profesionalna oskrba za vaše najdražje – ves čas, s preglednostjo in varnostjo",
+    "ctaCustomer": "Zahtevaj nego",
+    "ctaCaregiver": "Prijavi se kot negovalec"
+  },
+  "trust": {
+    "title": "Zaupanje skozi preglednost",
+    "feature1": "Poročila v realnem času",
+    "feature1Desc": "Dnevne posodobitve vitalnih znakov in negovalnih dejavnosti",
+    "feature2": "Kvalificirani negovalci",
+    "feature2Desc": "Izkušeni in preverjeni negovalci",
+    "feature3": "Skladno z GDPR",
+    "feature3Desc": "Najvišji standardi varstva podatkov in varnosti"
+  },
+  "services": {
+    "title": "Naše storitve",
+    "service1": "24-urna oskrba",
+    "service1Desc": "Neprekinjeno nego in spremljanje v domačem okolju",
+    "service2": "Medicinsko spremljanje",
+    "service2Desc": "Redno preverjanje vitalnih znakov in zdravstvenega stanja",
+    "service3": "Podpora pri vsakdanjih opravilih",
+    "service3Desc": "Pomoč pri dnevnih aktivnostih in gospodinjstvu"
+  },
+  "lead": {
+    "customer": {
+      "title": "Nega za vaše bližnje",
+      "subtitle": "Kontaktirajte nas za neobvezujoč posvet",
+      "name": "Vaše ime",
+      "email": "E-poštni naslov",
+      "phone": "Telefonska številka",
+      "message": "Vaše sporočilo (neobvezno)",
+      "submit": "Pošlji povpraševanje",
+      "success": "Hvala! Kmalu vas bomo kontaktirali.",
+      "error": "Prišlo je do napake. Prosimo, poskusite znova."
+    },
+    "caregiver": {
+      "title": "Pridružite se naši ekipi",
+      "subtitle": "Prijavite se kot kvalificiran negovalec",
+      "name": "Vaše ime",
+      "email": "E-poštni naslov",
+      "phone": "Telefonska številka",
+      "message": "Vaše kvalifikacije in izkušnje",
+      "submit": "Pošlji prijavo",
+      "success": "Hvala za vašo prijavo! Kmalu vas bomo kontaktirali.",
+      "error": "Prišlo je do napake. Prosimo, poskusite znova."
+    }
+  },
+  "footer": {
+    "legal": {
+      "imprint": "Impressum",
+      "privacy": "Varstvo podatkov"
+    },
+    "tagline": "© 2025 CareConnect24. Vse pravice pridržane."
+  },
+  "auth": {
+    "login": "Prijava",
+    "email": "E-poštni naslov",
+    "password": "Geslo",
+    "forgotPassword": "Pozabljeno geslo?",
+    "resetPassword": "Ponastavi geslo",
+    "signIn": "Prijavi se",
+    "signUp": "Registriraj se",
+    "loading": "Nalaganje...",
+    "error": "Prijava ni uspela. Prosimo, preverite svoje podatke."
+  },
+  "dashboard": {
+    "welcome": "Dobrodošli",
+    "overview": "Pregled",
+    "statistics": "Statistika",
+    "recentActivity": "Nedavne aktivnosti"
+  },
+  "patient": {
+    "name": "Ime",
+    "birthDate": "Datum rojstva",
+    "notes": "Opombe",
+    "vitals": "Vitalni znaki",
+    "careLogs": "Dnevniki nege",
+    "tasks": "Naloge",
+    "documents": "Dokumenti",
+    "addVital": "Dodaj vitalni znak",
+    "addCareLog": "Ustvari dnevnik nege",
+    "addTask": "Ustvari nalogo",
+    "uploadDocument": "Naloži dokument"
+  },
+  "vitals": {
+    "bloodPressure": "Krvni tlak",
+    "heartRate": "Srčni utrip",
+    "temperature": "Temperatura",
+    "oxygenSaturation": "Nasičenost s kisikom",
+    "bloodGlucose": "Krvni sladkor",
+    "systolic": "Sistolični",
+    "diastolic": "Diastolični",
+    "value": "Vrednost",
+    "measuredAt": "Izmerjeno",
+    "last30Days": "Zadnjih 30 dni",
+    "last90Days": "Zadnjih 90 dni"
+  },
+  "careLog": {
+    "slot": "Čas dneva",
+    "morning": "Jutro",
+    "noon": "Opoldne",
+    "afternoon": "Popoldne",
+    "evening": "Večer",
+    "title": "Naslov",
+    "details": "Podrobnosti",
+    "mood": "Razpoloženje",
+    "completed": "Zaključeno",
+    "occurredAt": "Čas"
+  },
+  "task": {
+    "title": "Naslov",
+    "status": "Status",
+    "open": "Odprto",
+    "inProgress": "V teku",
+    "done": "Zaključeno",
+    "dueAt": "Rok",
+    "assignedTo": "Dodeljeno",
+    "createdBy": "Ustvaril"
+  },
+  "document": {
+    "label": "Oznaka",
+    "createdAt": "Ustvarjeno",
+    "download": "Prenesi",
+    "upload": "Naloži",
+    "uploading": "Nalaganje..."
+  },
+  "form": {
+    "required": "Obvezno polje",
+    "invalidEmail": "Neveljaven e-poštni naslov",
+    "invalidPhone": "Neveljavna telefonska številka",
+    "save": "Shrani",
+    "cancel": "Prekliči",
+    "delete": "Izbriši",
+    "edit": "Uredi",
+    "create": "Ustvari",
+    "update": "Posodobi",
+    "search": "Išči",
+    "filter": "Filtriraj",
+    "clear": "Počisti",
+    "loading": "Nalaganje...",
+    "noResults": "Ni rezultatov",
+    "error": "Prišlo je do napake"
+  },
+  "validation": {
+    "systolicRange": "Sistolična vrednost mora biti med 80 in 220",
+    "diastolicRange": "Diastolična vrednost mora biti med 40 in 130",
+    "heartRateRange": "Srčni utrip mora biti med 30 in 220",
+    "temperatureRange": "Temperatura mora biti med 34 in 42",
+    "oxygenRange": "Nasičenost s kisikom mora biti med 70 in 100",
+    "glucoseRange": "Krvni sladkor mora biti med 40 in 400"
+  },
+  "admin": {
+    "users": "Uporabniki",
+    "profiles": "Profili",
+    "assignments": "Dodelitve",
+    "auditLogs": "Revizijski dnevnik",
+    "statistics": "Statistika",
+    "totalPatients": "Skupaj pacientov",
+    "totalCaregivers": "Skupaj negovalcev",
+    "totalCustomers": "Skupaj strank",
+    "activeAssignments": "Aktivne dodelitve",
+    "vitalsToday": "Vitalni znaki danes",
+    "careLogsToday": "Dnevniki nege danes",
+    "openTasks": "Odprte naloge"
+  }
+}
+

@@ -1,0 +1,185 @@
+{
+  "brand": {
+    "name": "CareConnect24",
+    "tagline": "24-Stunden-Pflege mit Herz"
+  },
+  "nav": {
+    "home": "Startseite",
+    "login": "Anmelden",
+    "dashboard": "Dashboard",
+    "patients": "Patienten",
+    "caregivers": "Pflegekräfte",
+    "customers": "Kunden",
+    "audit": "Audit-Protokoll",
+    "logout": "Abmelden",
+    "myPatients": "Meine Patienten",
+    "myFamily": "Meine Familie"
+  },
+  "hero": {
+    "title": "24-Stunden-Pflege mit Herz",
+    "subtitle": "Professionelle Betreuung für Ihre Liebsten – rund um die Uhr, mit Transparenz und Sicherheit",
+    "ctaCustomer": "Pflege anfragen",
+    "ctaCaregiver": "Als Pflegekraft bewerben"
+  },
+  "trust": {
+    "title": "Vertrauen durch Transparenz",
+    "feature1": "Echtzeitberichte",
+    "feature1Desc": "Tägliche Updates zu Vitalwerten und Pflegeaktivitäten",
+    "feature2": "Qualifizierte Pflegekräfte",
+    "feature2Desc": "Erfahrene und geprüfte Betreuungspersonen",
+    "feature3": "DSGVO-konform",
+    "feature3Desc": "Höchste Datenschutz- und Sicherheitsstandards"
+  },
+  "services": {
+    "title": "Unsere Leistungen",
+    "service1": "24-Stunden-Betreuung",
+    "service1Desc": "Kontinuierliche Pflege und Begleitung im häuslichen Umfeld",
+    "service2": "Medizinische Überwachung",
+    "service2Desc": "Regelmäßige Kontrolle von Vitalwerten und Gesundheitszustand",
+    "service3": "Alltagsunterstützung",
+    "service3Desc": "Hilfe bei täglichen Aktivitäten und Haushaltsführung"
+  },
+  "lead": {
+    "customer": {
+      "title": "Pflege für Ihre Angehörigen",
+      "subtitle": "Kontaktieren Sie uns für ein unverbindliches Beratungsgespräch",
+      "name": "Ihr Name",
+      "email": "E-Mail-Adresse",
+      "phone": "Telefonnummer",
+      "message": "Ihre Nachricht (optional)",
+      "submit": "Anfrage senden",
+      "success": "Vielen Dank! Wir melden uns in Kürze bei Ihnen.",
+      "error": "Ein Fehler ist aufgetreten. Bitte versuchen Sie es erneut."
+    },
+    "caregiver": {
+      "title": "Werden Sie Teil unseres Teams",
+      "subtitle": "Bewerben Sie sich als qualifizierte Pflegekraft",
+      "name": "Ihr Name",
+      "email": "E-Mail-Adresse",
+      "phone": "Telefonnummer",
+      "message": "Ihre Qualifikationen und Erfahrung",
+      "submit": "Bewerbung senden",
+      "success": "Vielen Dank für Ihre Bewerbung! Wir melden uns in Kürze.",
+      "error": "Ein Fehler ist aufgetreten. Bitte versuchen Sie es erneut."
+    }
+  },
+  "footer": {
+    "legal": {
+      "imprint": "Impressum",
+      "privacy": "Datenschutz"
+    },
+    "tagline": "© 2025 CareConnect24. Alle Rechte vorbehalten."
+  },
+  "auth": {
+    "login": "Anmelden",
+    "email": "E-Mail-Adresse",
+    "password": "Passwort",
+    "forgotPassword": "Passwort vergessen?",
+    "resetPassword": "Passwort zurücksetzen",
+    "signIn": "Anmelden",
+    "signUp": "Registrieren",
+    "loading": "Wird geladen...",
+    "error": "Anmeldung fehlgeschlagen. Bitte überprüfen Sie Ihre Angaben."
+  },
+  "dashboard": {
+    "welcome": "Willkommen",
+    "overview": "Übersicht",
+    "statistics": "Statistiken",
+    "recentActivity": "Letzte Aktivitäten"
+  },
+  "patient": {
+    "name": "Name",
+    "birthDate": "Geburtsdatum",
+    "notes": "Notizen",
+    "vitals": "Vitalwerte",
+    "careLogs": "Pflegeprotokolle",
+    "tasks": "Aufgaben",
+    "documents": "Dokumente",
+    "addVital": "Vitalwert erfassen",
+    "addCareLog": "Pflegeprotokoll erstellen",
+    "addTask": "Aufgabe erstellen",
+    "uploadDocument": "Dokument hochladen"
+  },
+  "vitals": {
+    "bloodPressure": "Blutdruck",
+    "heartRate": "Herzfrequenz",
+    "temperature": "Temperatur",
+    "oxygenSaturation": "Sauerstoffsättigung",
+    "bloodGlucose": "Blutzucker",
+    "systolic": "Systolisch",
+    "diastolic": "Diastolisch",
+    "value": "Wert",
+    "measuredAt": "Gemessen am",
+    "last30Days": "Letzte 30 Tage",
+    "last90Days": "Letzte 90 Tage"
+  },
+  "careLog": {
+    "slot": "Tageszeit",
+    "morning": "Morgen",
+    "noon": "Mittag",
+    "afternoon": "Nachmittag",
+    "evening": "Abend",
+    "title": "Titel",
+    "details": "Details",
+    "mood": "Stimmung",
+    "completed": "Abgeschlossen",
+    "occurredAt": "Zeitpunkt"
+  },
+  "task": {
+    "title": "Titel",
+    "status": "Status",
+    "open": "Offen",
+    "inProgress": "In Bearbeitung",
+    "done": "Erledigt",
+    "dueAt": "Fällig am",
+    "assignedTo": "Zugewiesen an",
+    "createdBy": "Erstellt von"
+  },
+  "document": {
+    "label": "Bezeichnung",
+    "createdAt": "Erstellt am",
+    "download": "Herunterladen",
+    "upload": "Hochladen",
+    "uploading": "Wird hochgeladen..."
+  },
+  "form": {
+    "required": "Pflichtfeld",
+    "invalidEmail": "Ungültige E-Mail-Adresse",
+    "invalidPhone": "Ungültige Telefonnummer",
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "delete": "Löschen",
+    "edit": "Bearbeiten",
+    "create": "Erstellen",
+    "update": "Aktualisieren",
+    "search": "Suchen",
+    "filter": "Filtern",
+    "clear": "Löschen",
+    "loading": "Wird geladen...",
+    "noResults": "Keine Ergebnisse gefunden",
+    "error": "Ein Fehler ist aufgetreten"
+  },
+  "validation": {
+    "systolicRange": "Systolischer Wert muss zwischen 80 und 220 liegen",
+    "diastolicRange": "Diastolischer Wert muss zwischen 40 und 130 liegen",
+    "heartRateRange": "Herzfrequenz muss zwischen 30 und 220 liegen",
+    "temperatureRange": "Temperatur muss zwischen 34 und 42 liegen",
+    "oxygenRange": "Sauerstoffsättigung muss zwischen 70 und 100 liegen",
+    "glucoseRange": "Blutzucker muss zwischen 40 und 400 liegen"
+  },
+  "admin": {
+    "users": "Benutzer",
+    "profiles": "Profile",
+    "assignments": "Zuweisungen",
+    "auditLogs": "Audit-Protokoll",
+    "statistics": "Statistiken",
+    "totalPatients": "Patienten gesamt",
+    "totalCaregivers": "Pflegekräfte gesamt",
+    "totalCustomers": "Kunden gesamt",
+    "activeAssignments": "Aktive Zuweisungen",
+    "vitalsToday": "Vitalwerte heute",
+    "careLogsToday": "Pflegeprotokolle heute",
+    "openTasks": "Offene Aufgaben"
+  }
+}
+
